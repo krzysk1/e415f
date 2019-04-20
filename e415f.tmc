@@ -1,10 +1,10 @@
 ﻿<[file][][]
     <[object][][]
         <[int][Version][210]>
-        <[vec32array][ContactSpheres][ (-0.387 1.249 -1.413 0.204) (-0.387 -1.249 -1.413 0.204) (1.312 0.0 -1.482 0.152) ]>
+        <[vec32array][ContactSpheres][ (-0.387 1.249 -1.110 0.152) (-0.387 -1.249 -1.110 0.152) (1.312 0.0 -1.182 0.152) ]>
         <[string8][DisplayName][Ercoupe 415-C Floats]>
-        <[string8][DescriptionTextEN][The ERCO Ercoupe is a low-wing monoplane aircraft that was designed and built in the United States. It was first manufactured by the Engineering and Research Corporation (ERCO) shortly before World War II; several other manufacturers continued its production after the war.
-		Aerofly FS 2 aircraft made by Krzysztof Kaniewski. Flight Model, systems and animations by Arno54, 3D model by Khamsin (http://xpfr.org/).]>
+        <[string8][DescriptionTextEN][The ERCO Ercoupe is a low-wing monoplane aircraft that was designed and built in the United States. It was first manufactured by the Engineering and Research Corporation (ERCO) shortly before World War II; several other manufacturers continued its production after the war. Lacking rudder pedals, the Ercoupe was flown using only the control wheel.
+Aerofly FS 2 aircraft made by Krzysk, flight Model, systems and animations by Arno54, 3D model by Khamsin (http://xpfr.org/).]>
 		<[float64][WingSpan][9.2]>
 		<[float64][Mass][485]>
 		<[float64][MaximumSpeed][48.0]>
